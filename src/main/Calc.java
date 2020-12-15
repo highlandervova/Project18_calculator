@@ -640,7 +640,7 @@ public class Calc extends javax.swing.JFrame {
          jTextField1.setText("");
           jTextField1.requestFocusInWindow();
     } 
-        
+        //comment
     }//GEN-LAST:event_jButton12ActionPerformed
 
     private void jButton8ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton8ActionPerformed
